@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octo Kerbs</h1>
-<h3 align="center">A Computer science student at University of Buenos Aires, Argentina.</h3>
+<h3 align="center">An Advanced Computer science student at University of Buenos Aires, Argentina.</h3>
 
 - 🌱 I’m currently learning **Go, NextJS, Typescript and Intelligent Agents**
 
